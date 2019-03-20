@@ -1,0 +1,93 @@
+#glcanvas {
+    display : block;
+    width : 25em;
+    height : 25em;
+    margin : auto;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+  }
+
+.center{
+	display : block;
+    width : 25em;
+    height : 25em;
+    margin : auto;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+}
+
+#b
+{
+  background-color:rgb(220,220,220);
+}
+
+#search
+{
+  width:25em;
+  height : 3em;
+	background-color:black;
+	padding:0px;
+	border:1px solid white;
+}
+
+#search1
+{
+	padding:.2em;
+	border:0;
+}
+
+#search2
+{
+	width:50%;
+	padding:.1em;
+	font-size:1.2em;
+	border-radius:.2em;
+	background-color:black;
+	color:white;
+	border:2px solid white;
+}
+
+#search2:hover
+{
+	border:0px solid white;
+	background-color:white;
+	color:black;
+}
+
+#search3
+{
+	width:50%;
+	padding:.1em;
+	font-size:1.2em;
+	border-radius:.2em;
+	background-color:black;
+	color:white;
+	border:2px solid white;
+}
+
+#search3:hover
+{
+	border:0px solid white;
+	background-color:white;
+	color:black;
+}
+
+#search4
+{
+	width:50%;
+	padding:.1em;
+	font-size:1.2em;
+	border-radius:.2em;
+	background-color:black;
+	color:white;
+	border:2px solid white;
+}
+
+#search4:hover
+{
+	border:0px solid white;
+	background-color:white;
+	color:black;
+}
